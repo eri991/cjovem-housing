@@ -15,7 +15,11 @@
 ### Enunciado
 
 > *"Questão 1: Análise exploratória de dados (EDA)"*
+
 > *"Questão 2: Divisão dos dados"*
+
 > *"Questão 3: Análise de outliers"*
+
 > *"Questão 4: Seleção de variáveis (feature Selection)"*
+
 > *"Questão 5: Implementação de uma árvore de decisão para regressão"*
